@@ -3,11 +3,11 @@
 
 ## Structure
 
-### Question 1
+### Vanilla NodeJS deep clone functionality
 `deepClone.js`
 `deepClone.test.js`
 
-### Question 2
+### Find partners within radius using lat, lon
 >`index.js` - Main file. Here you configure lat, lon, radius.
 
 >`greatCircleDistance.js` - Mathematical algorithm for distance between lat & lon points.
